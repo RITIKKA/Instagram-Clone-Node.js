@@ -1,0 +1,14 @@
+{
+  "name": "instagram-backend",
+  "version": "1.0.0",
+  "description": "This project is a clone of Instagram",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "Ritika",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
